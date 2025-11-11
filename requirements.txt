@@ -1,5 +1,5 @@
 streamlit==1.28.1
 opencv-python==4.8.1.78
-numpy==1.26.4
-Pillow==10.0.1
+numpy==2.0.0  # Updated to latest stable for Python 3.13 support
+Pillow==11.0.0  # Updated to latest stable (or use Pillow>=11.0.0 for auto-updates)
 setuptools==69.0.3
